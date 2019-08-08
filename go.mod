@@ -1,1 +1,1 @@
-module "https://github.com/kosyukWork/testmod"
+module "github.com/kosyukWork/testmod"
